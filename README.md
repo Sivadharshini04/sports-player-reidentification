@@ -72,6 +72,9 @@ The final output video will be saved as output.mp4.
 
     You can open output.mp4 to see the video version.
 
+# NOTE
+Another approach using `OCR` to identify players using `Jersey Numbers` has also been implemented by me.  
+It has been shared as a Drive Folder link.
 
 ## Author
 
