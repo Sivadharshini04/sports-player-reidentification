@@ -1,10 +1,9 @@
 # Sports Player Re-identification 
-This project proposes a solution for the task of **player re-identification in a single feed** in the given sports footage using the fine-tuned `Ultralytics YOLOv11` based `best.pt` model.
+This project proposes a solution for the task of **player re-identification in a single feed** in the given sports footage using a fine-tuned `Ultralytics YOLOv11` based `best.pt` model.
 The goal is to detect and consistently identify players in the single-camera video, even if they go out of view and reappear into frame.
 
 ---
-
-## Assignment Task
+## Assignment Tast
 
 **Re-identification in a Single Feed**
 
@@ -14,10 +13,10 @@ The goal is to detect and consistently identify players in the single-camera vid
 
 ## Repository Contents
 sports-player-reidentification/  
-├── taskb.ipynb # Jupyter notebook  
-├── output.mp4 # Sample output video  
-├── requirements.txt # Python dependencies  
-├── sample_outputs/ # Sample output screenshots  
+├── taskb.ipynb 
+├── output.mp4 #Sample output video  
+├── requirements.txt 
+├── sample_outputs/ #Sample output screenshots  
 └── README.md 
 
 
@@ -71,10 +70,6 @@ The final output video will be saved as output.mp4.
 ## Sample Output
 
     You can open output.mp4 to see the video version.
-
-# NOTE
-Another approach using `OCR` to identify players using `Jersey Numbers` has also been implemented by me.  
-It has been shared as a Drive Folder link.
 
 ## Author
 
