@@ -2,14 +2,13 @@
 This project proposes a solution for the task of **player re-identification in a single feed** in the given sports footage using a fine-tuned `Ultralytics YOLOv11` based `best.pt` model.
 The goal is to detect and consistently identify players in the single-camera video, even if they go out of view and reappear into frame.
 
----
 ## Assignment Tast
 
 **Re-identification in a Single Feed**
 
 > Given a 15-second video, identify each player and ensure that players who leave the frame and reappear are assigned the same identity as before.
 
----
+
 
 ## Repository Contents
 sports-player-reidentification/  
@@ -19,8 +18,6 @@ sports-player-reidentification/
 ├── sample_outputs/ #Sample output screenshots  
 └── README.md 
 
-
----
 
 ### Requirements
 
